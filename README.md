@@ -1,21 +1,9 @@
-# Md. Nadim Hider | Portfolio & Technical Systems
+# Md. Nadim Hider — Operations & Analytics
 
-> **Senior Business Intelligence Analyst**  
-> Operational Data Architecture : Ambient AI Operations : Global Cross-Border Workflows (U.S., Bangladesh, India)  
-> Live Website: [nadimhider.github.io](https://nadimhider.github.io)
+[Live portfolio](https://nadimhider.github.io/) · [One-page CV](https://nadimhider.github.io/Nadim_Hider_CV.pdf)
 
----
+Selected work in employee scheduling, incident tracking, operational reporting, and documentation quality. The staffing-desk preview uses fictional examples; it does not collect submissions.
 
-## Overview
-This repository hosts the personal website and portfolio for **Md. Nadim Hider**.
-Built with a clean, responsive layout, light/dark theme support, and verified 1-page vector resume PDF.
+GitHub Pages serves `index.html`, `portfolio.css`, and `portfolio.js` directly from `main`. No build step or external fonts are required. Project URLs such as `/#incidents` open the relevant case study.
 
-## Core Focus Areas
-- **Ambient AI Operations & Telemetry:** Tracking delivery telemetry, model performance adoption, and scribe velocity for ambient clinical documentation at Commure.
-- **Global Cross-Border Collaboration:** Partnering daily with U.S. leadership, product teams, and cross-cultural operational delivery hubs across the U.S., Bangladesh, and India.
-- **Internal Platforms & Data Migration:** Consolidating legacy schemas, automating ETL pipelines, and building internal applications with Python, SQL, and Retool.
-
-## Contact
-- **Email:** [nadim.hider@outlook.com](mailto:nadim.hider@outlook.com)
-- **LinkedIn:** [linkedin.com/in/nadim-hider](https://linkedin.com/in/nadim-hider)
-- **GitHub:** [github.com/NadimHider](https://github.com/NadimHider)
+For a local preview, run `python -m http.server 8000` and open `http://localhost:8000`. To refresh the CV, print the homepage to an A4 PDF with browser headers and footers disabled; the print stylesheet formats the résumé.
